@@ -1,2 +1,2 @@
-# WEATHER_APP_PROJECT_REACTJS
-THIS SITE TELLS YOU THE CURRENT WEATHER OF ANY COUNTRY.
+# PROJECTS_REACTJS
+This repo is the implementation of various react projects.
